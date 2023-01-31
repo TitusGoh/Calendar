@@ -1,4 +1,4 @@
-**Tools: **
+Tools:
 - JavaScript
 - HTML
 - CSS
